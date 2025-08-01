@@ -6,13 +6,13 @@ Currently, I’m sharpening my skills in Python and data analysis, and I love co
 
 ## 💼 Projects
 
-- 🤖 [define-solve-mlproblem](https://github.com/MuradEyvazovv/My-Cornell-Portfolio)  
+- 🤖 [define-solve-mlproblem]( https://github.com/MuradEyvazovv/My-Cornell-Portfolio )  
   A full ML pipeline to predict “Delivery Quality” from the World Happiness Report data (data cleaning, EDA, model training & comparison, feature‐importance visualization).
 
 - 🤖 [svm-sentiment-analysis](https://github.com/murateyvazov/svm-sentiment-analysis)  
   *(Placeholder)* A sentiment analysis classifier using Support Vector Machines on customer‐review data. Development coming soon.
 
-- 🎲 [eight-puzzle-board](https://github.com/murateyvazov/eight-puzzle-board)  
+- 🎲 [eight-puzzle-board]( https://github.com/MuradEyvazovv/Eight-Puzzle-Board )  
   A Java data type for the 8-Puzzle game:  
   - Implements Hamming & Manhattan heuristics  
   - Checks solvability  
