@@ -26,6 +26,10 @@ Currently, I’m sharpening my skills in Python programming, machine learning, d
 - Tools: Jupyter Notebooks, Google Colab, Git, GitHub
 - Tools: Git, VS Code, Pandas, Jupiter, NumPy
 
+## Licenses and Certifications
+AI Program: ML Foundations certificate
+DATA SCIENCE AND MACHINE LEARNING: MAKING DATA-DRIVEN DECISIONS BY MIT IDSS
+
 ## 📫 Connect with Me
 - LinkedIn: www.linkedin.com/in/muradeyvazov
 - Email: mr.murad.eyvazov@gmail.com
