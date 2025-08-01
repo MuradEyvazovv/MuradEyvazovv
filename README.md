@@ -1,4 +1,4 @@
-## About me ##
+# About me
 
 Hi, I’m **Murad Eyvazov**, a Computer Engineering student at UMass Boston.  
 I’m passionate about **AI**, **machine learning**, and building tech solutions that solve real-world problems.  
@@ -19,14 +19,14 @@ Currently, I’m sharpening my skills in Python programming, machine learning, d
   - Generates neighbor boards  
   - Includes unit tests via `main()`  
 
-# 🛠️ Tech Stack
+## 🛠️ Tech Stack
 - Languages: Python, Java, C
 - Data Science: Pandas, NumPy, scikit-learn, TensorFlow
 - Web Dev: HTML
 - Tools: Jupyter Notebooks, Google Colab, Git, GitHub
 - Tools: Git, VS Code, Pandas, Jupiter, NumPy
 
-## Licenses and Certifications
+## 📄 Licenses and Certifications
 AI Program: ML Foundations certificate
 DATA SCIENCE AND MACHINE LEARNING: MAKING DATA-DRIVEN DECISIONS BY MIT IDSS
 
