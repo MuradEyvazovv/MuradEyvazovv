@@ -20,7 +20,10 @@ Currently, I’m sharpening my skills in Python programming, machine learning, d
   - Includes unit tests via `main()`  
 
 # 🛠️ Tech Stack
-- Languages: Python, Java, JavaScript
+- Languages: Python, Java, C
+- Data Science: Pandas, NumPy, scikit-learn, TensorFlow
+- Web Dev: HTML
+- Tools: Jupyter Notebooks, Google Colab, Git, GitHub
 - Tools: Git, VS Code, Pandas, Jupiter, NumPy
 
 ## 📫 Connect with Me
