@@ -6,7 +6,7 @@ Currently, I’m sharpening my skills in Python and data analysis, and I love co
 
 ## 💼 Projects
 
-- 🤖 [define-solve-mlproblem](https://github.com/murateyvazov/define-solve-mlproblem)  
+- 🤖 [define-solve-mlproblem](https://github.com/MuradEyvazovv/My-Cornell-Portfolio)  
   A full ML pipeline to predict “Delivery Quality” from the World Happiness Report data (data cleaning, EDA, model training & comparison, feature‐importance visualization).
 
 - 🤖 [svm-sentiment-analysis](https://github.com/murateyvazov/svm-sentiment-analysis)  
