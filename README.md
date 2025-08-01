@@ -1,3 +1,5 @@
+## About me ##
+
 Hi, I’m **Murad Eyvazov**, a Computer Engineering student at UMass Boston.  
 I’m passionate about **AI**, **machine learning**, and building tech solutions that solve real-world problems.  
 Currently, I’m sharpening my skills in Python programming, machine learning, data analysis, and model evaluation skills, and I thrive on contributing to open-source projects while continuously exploring new technologies.
