@@ -6,13 +6,14 @@ Currently, I’m sharpening my skills in Python programming, machine learning, d
 
 ## 💼 Projects
 
-- [boston-311-service-analysis] (https://github.com/MuradEyvazovv/boston-311-service-analysis)
+-[boston-311-service-analysis]( https://github.com/MuradEyvazovv/boston-311-service-analysis )  
+
   Analysis of Boston's public 311 service request dataset using Python.
   
-• Explored patterns in service requests reported by residents  
-• Identified most common complaint categories and responsible departments  
-• Visualized seasonal trends in request volume  
-• Estimated department response times using open and close timestamps  
+  • Explored patterns in service requests reported by residents  
+  • Identified most common complaint categories and responsible departments  
+  • Visualized seasonal trends in request volume  
+  • Estimated department response times using open and close timestamps  
 
 - [define-solve-mlproblem]( https://github.com/MuradEyvazovv/My-Cornell-Portfolio )  
   A full ML pipeline to predict “Delivery Quality” from the World Happiness Report data (data cleaning, EDA, model training & comparison, feature‐importance visualization).
