@@ -1,12 +1,12 @@
 # About me
 
 Hi, I’m **Murad Eyvazov**, a Computer Engineering student at UMass Boston.  
-I’m passionate about **AI**, **machine learning**, and building tech solutions that solve real-world problems.  
+I’m passionate about **AI**, **Machine Learning**, **LLM**, and building tech solutions that solve real-world problems.  
 Currently, I’m sharpening my skills in Python programming, machine learning, data analysis, and model evaluation skills, and I thrive on contributing to open-source projects while continuously exploring new technologies.
 
 ## 💼 Projects
 
--[boston-311-service-analysis]( https://github.com/MuradEyvazovv/boston-311-service-analysis )  
+  -  [Boston 311 Civic Data Analysis]( https://github.com/MuradEyvazovv/boston-311-service-analysis )  
 
   Analysis of Boston's public 311 service request dataset using Python.
   
