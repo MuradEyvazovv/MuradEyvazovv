@@ -8,7 +8,7 @@ Currently, I’m sharpening my skills in Python programming, machine learning, d
 
   -  [Boston 311 Civic Data Analysis]( https://github.com/MuradEyvazovv/boston-311-service-analysis )  
 
-      Analysis of Boston's public 311 service request dataset using Python.
+      Data analysis project exploring Boston’s public 311 service request dataset using Python and visualization tools.
   
       • Explored patterns in service requests reported by residents  
       • Identified most common complaint categories and responsible departments  
