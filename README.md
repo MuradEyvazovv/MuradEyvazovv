@@ -1,6 +1,6 @@
 # Murad Eyvazov
 
-Computer Engineering senior (CS minor) at UMass Boston, graduating December 2026. I work mostly in Python on machine learning and robotics, and I'm looking for full-time **ML Engineer** or **Software Engineer** roles in the Boston area starting in 2027.
+Computer Engineering senior (CS minor) at UMass Boston focused on machine learning, robotics, and software engineering. I build intelligent systems in Python, from reinforcement-learning agents and predictive models to autonomous and real-world engineering applications.
 
 [Portfolio](https://muradeyvazovv.github.io) · [LinkedIn](https://www.linkedin.com/in/muradeyvazov) · [Email](mailto:mr.murad.eyvazov@gmail.com)
 
