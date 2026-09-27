@@ -1,44 +1,43 @@
-# About me
+# Murad Eyvazov
 
-Computer Engineering student building AI, reinforcement learning, embedded systems, and software projects that solve real-world problems.
+Computer Engineering senior (CS minor) at UMass Boston, graduating December 2026. I work mostly in Python on machine learning and robotics, and I'm looking for full-time **ML Engineer** or **Software Engineer** roles in the Boston area starting in 2027.
 
-## 💼 Projects
+[Portfolio](https://muradeyvazovv.github.io) · [LinkedIn](https://www.linkedin.com/in/muradeyvazov) · [Email](mailto:mr.murad.eyvazov@gmail.com)
 
-  -  [Boston 311 Civic Data Analysis]( https://github.com/MuradEyvazovv/boston-311-service-analysis )  
+## Featured projects
 
-      Data analysis project exploring Boston’s public 311 service request dataset using Python and visualization tools.
-  
-      • Explored patterns in service requests reported by residents  
-      • Identified most common complaint categories and responsible departments  
-      • Visualized seasonal trends in request volume  
-      • Estimated department response times using open and close timestamps  
+**[SD2026: multi-agent search testbed](https://github.com/MuradEyvazovv/SD2026)** · Senior Design, UMass Boston (team of 7)\
+Two TurtleBot4 robots search a 7×9 tile map for a hidden target while their RF and optical links are unreliable. I wrote the Q-learning movement module (the trainer and the decision script the Mission Leader runs every cycle) and designed the map so a robot can find its position from a single camera scan.\
+`Python` `Q-learning` `TurtleBot4` `Bash`
 
-- [multi-agent-rl-degraded-comms](https://github.com/MuradEyvazovv/multi-agent-rl-degraded-comms)  
-  Two simulated robots that have to reach a target while their radio link keeps dropping. Builds on my Senior Design project and compares the original "hold when the link is down" rule with tabular Q-learning and DQN.
+**[Multi-agent RL under degraded communications](https://github.com/MuradEyvazovv/multi-agent-rl-degraded-comms)**\
+A simulation follow-up to Senior Design. With the radio link down 90% of the time, the original "hold when the link is down" rule completes 17.6% of missions. Remembering where the other robot was last seen raises that to 98.6% with a DQN and 97.6% with a hand-written rule (5 seeds, held-out maps).\
+`PyTorch` `DQN` `Q-learning` `NumPy`
 
-- [boston-311-on-time-prediction](https://github.com/MuradEyvazovv/boston-311-on-time-prediction)  
-  Follow-up to my 311 analysis: predicts at submission time whether a request will miss the City's SLA deadline (trained on 2025, tested on 2026).
+**[Boston 311: will a request miss its deadline?](https://github.com/MuradEyvazovv/boston-311-on-time-prediction)**\
+Predicts at submission time whether a 311 service request will miss the City's SLA. Trained on 2025 and tested on 137,225 requests from 2026: ROC-AUC 0.893 against 0.867 for a per-type baseline, and 90.3% of the top 10% highest-risk flags were really late.\
+`scikit-learn` `pandas` `gradient boosting`
 
-- [rsa-cryptosystem](https://github.com/MuradEyvazovv/RSA-Cryptosystem)  
-  Educational RSA cryptosystem in Python with simple CLI tools for key generation, encryption (to fixed-width binary), and decryption back to plaintext. Built for learning—uses small primes and naive methods, so not production-secure.
+**[Boston 311 civic data analysis](https://github.com/MuradEyvazovv/boston-311-service-analysis)**\
+The descriptive project that came first: most common request types, seasonal trends, and department response times.\
+`pandas` `Matplotlib` `Seaborn`
 
-- [eight-puzzle-board]( https://github.com/MuradEyvazovv/Eight-Puzzle-Board )  
-  A Java data type for the 8-Puzzle game:  
-  - Implements Hamming & Manhattan heuristics  
-  - Checks solvability  
-  - Generates neighbor boards  
-  - Includes unit tests via `main()`  
+**Smaller projects:** [RSA-Cryptosystem](https://github.com/MuradEyvazovv/RSA-Cryptosystem) (educational RSA in Python with CLI tools) · [Eight-Puzzle-Board](https://github.com/MuradEyvazovv/Eight-Puzzle-Board) (Java board type with Hamming and Manhattan heuristics and a solvability check)
 
-## 🛠️ Tech Stack
-- Languages: Python, Java, C
-- Data Science: Pandas, NumPy, scikit-learn, TensorFlow
-- Web Dev: HTML
-- Tools: Jupyter Notebooks, VS Code, Google Colab, Git, GitHub
+## Experience
 
-## 📄 Licenses and Certifications
-AI Program: ML Foundations certificate
-DATA SCIENCE AND MACHINE LEARNING: MAKING DATA-DRIVEN DECISIONS BY MIT IDSS
+- **Data & AI Intern**, ABB Bank, AI Center of Excellence and Digital Channels, Baku · Jun – Aug 2026
+- **AI/ML Fellow**, Break Through Tech AI (Cornell Tech, hosted at MIT) · May 2025 – Feb 2026
+- **Course Assistant**, ENGIN 104 Introduction to Engineering, UMass Boston · Fall 2025
+- **Machine Learning Intern**, A2Z Technologies, Baku · Summer 2023
 
-## 📫 Connect with Me
-- LinkedIn: www.linkedin.com/in/muradeyvazov
-- Email: mr.murad.eyvazov@gmail.com
+## Skills
+
+- **Languages:** Python, C, Java, SQL, Bash
+- **ML and data:** PyTorch, scikit-learn, TensorFlow, pandas, NumPy, Matplotlib
+- **Tools:** Git/GitHub, Linux, Jupyter, Google Colab, MATLAB
+
+## Certifications
+
+- Machine Learning Foundations, Cornell University (eCornell), 2025
+- Data Science and Machine Learning: Making Data-Driven Decisions, MIT IDSS
