@@ -15,8 +15,11 @@ Currently, I’m sharpening my skills in Python programming, machine learning, d
       • Visualized seasonal trends in request volume  
       • Estimated department response times using open and close timestamps  
 
-- [define-solve-mlproblem]( https://github.com/MuradEyvazovv/My-Cornell-Portfolio )  
-  A full ML pipeline to predict “Delivery Quality” from the World Happiness Report data (data cleaning, EDA, model training & comparison, feature‐importance visualization).
+- [multi-agent-rl-degraded-comms](https://github.com/MuradEyvazovv/multi-agent-rl-degraded-comms)  
+  Two simulated robots that have to reach a target while their radio link keeps dropping. Builds on my Senior Design project and compares the original "hold when the link is down" rule with tabular Q-learning and DQN.
+
+- [boston-311-on-time-prediction](https://github.com/MuradEyvazovv/boston-311-on-time-prediction)  
+  Follow-up to my 311 analysis: predicts at submission time whether a request will miss the City's SLA deadline (trained on 2025, tested on 2026).
 
 - [rsa-cryptosystem](https://github.com/MuradEyvazovv/RSA-Cryptosystem)  
   Educational RSA cryptosystem in Python with simple CLI tools for key generation, encryption (to fixed-width binary), and decryption back to plaintext. Built for learning—uses small primes and naive methods, so not production-secure.
